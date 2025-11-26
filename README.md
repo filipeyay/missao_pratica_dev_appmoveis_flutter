@@ -4,8 +4,6 @@ Trabalho da faculdade.
 
 ---
 
-# Relatório de Prática: Desenvolvimento Mobile com Flutter
-
 ## 1. Objetivo da Prática
 
 O objetivo central desta atividade foi executar os fundamentos do desenvolvimento mobile com o framework Flutter, focando na construção declarativa de interfaces de usuário. A prática focou na demonstração da utilização de Widgets estruturais (**MaterialApp**, **Scaffold**), de layout (**Row**, **Column**, **Stack**) e de rolagem (**ListView**).
@@ -24,7 +22,3 @@ A implementação do aplicativo da Agência de Viagens "Explore Mundo" exigiu a 
 - **Responsividade e Rolagem:** A etapa final envolveu a substituição da `Column` principal por um `ListView`. Essa decisão técnica foi fundamental para garantir que o aplicativo fosse funcional em dispositivos com telas menores, permitindo a rolagem do conteúdo e evitando erros de renderização por falta de espaço vertical.
 
 Essa abordagem prática demonstrou como a hierarquia de widgets do Flutter permite criar layouts complexos e responsivos de maneira eficiente e modular.
-
----
-
-**Link do projeto:** [https://github.com/filipeyay/missao_pratica_dev_appmoveis_flutter](https://github.com/filipeyay/missao_pratica_dev_appmoveis_flutter)
